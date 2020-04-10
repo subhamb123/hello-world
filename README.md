@@ -1,3 +1,5 @@
-# hello-world
-My first repository
-Hi I'm Subham. I know Java, Javascript, C, Python, R, and HTML. 
+# Hello World!
+
+This is my first repository! 
+
+I'm Subham. I know Java, Javascript, C, Python, R, and HTML. 
