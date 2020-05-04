@@ -1,7 +1,6 @@
 # Hello World!
 
-This is my first repository! 
 
-I'm Subham. I want to study computer science and my dream is to continue on this path to learn advanced topics such as artificial intelligence and machine learning. Ultimately, I want to use my knowledge of this and apply it in the world such as making technology to make life simpler for unfortunate people. 
+I have great passion for computer science and computing in general. My dream is to continue on this path to learn advanced topics such as artificial intelligence and machine learning. Ultimately, I want to apply my knowledge to solve worldly problems for the greater good.
 
-I have been programming for many years in languages such as Java, Javascript, C, Python, R, and HTML. 
+I have so far been programming in languages such as Java, JavaScript, C, Python, R, and HTML.
