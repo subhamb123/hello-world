@@ -5,4 +5,4 @@ I have great passion for computer science and computing in general. My dream is 
 
 I have so far been programming in languages such as Java, JavaScript, C, Python, R, and HTML.
 
-I am practicing the professional practice of making new branches and not making changes directly on the master branch. I have installed git to do this and use SourceTree to manage my changes.
+I am still learning how to use git more efficiently. I have recently started using SourceTree to manage the local branches more effectively and installed git. 
